@@ -1,0 +1,28 @@
+/* Put your CSS here */
+
+.keyboard {
+  height: 15em;
+  width: 15em;
+}
+
+.active {
+  color: blue;
+}
+
+ul {
+  text-align: center;
+}
+nav li {
+  display: inline-block;
+  cursor: pointer;
+  margin-right: 1em;
+}
+
+main {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
